@@ -1,0 +1,1 @@
+In this project, I did how a parcel delivery company is executed.It tracks the location and dates of parcels from customers. It also has customer and location data so that the company can contact the customer during the attack.
